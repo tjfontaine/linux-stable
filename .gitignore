@@ -46,6 +46,7 @@
 *.ll
 Module.symvers
 modules.builtin
+modules_thick.builtin
 objects.builtin
 
 #
